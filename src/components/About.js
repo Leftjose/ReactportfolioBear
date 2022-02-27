@@ -12,7 +12,7 @@ export default function About() {
             Developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Greetings, I am currently looking for a Internship or a Entry Level Fullstack Web Developer role. 
+            Greetings, I am currently looking for an Internship or Entry Level Fullstack Web Developer role. 
             I completed a Full Stack Web Developer Bootcamp at UTSA in January 2022. 
             You are welcome to contact me if you have any further questions. <br>
             </br>
