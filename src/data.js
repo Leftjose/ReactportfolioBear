@@ -24,10 +24,10 @@ export const projects = [
     link: "https://leftjose.github.io/passwordGenerator02-25/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Todo App",
+    subtitle: "React.js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
