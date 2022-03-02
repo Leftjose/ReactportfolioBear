@@ -19,9 +19,9 @@ export const projects = [
     title: "DevChat",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This Random password generator allows the user to create a password with a variety of characters and the user will also be able to copy the password to clipboard.",
     image: "./passwordgen.png",
-    link: "https://reactbootcamp.com",
+    link: "https://leftjose.github.io/passwordGenerator02-25/",
   },
   {
     title: "Epic Todo App",

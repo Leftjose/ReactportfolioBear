@@ -12,11 +12,11 @@ export default function About() {
             Developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Greetings, I am currently looking for an Internship or Entry Level Fullstack Web Developer role. 
-            I completed a Full Stack Web Developer Bootcamp at UTSA in January 2022. 
-            You are welcome to contact me if you have any further questions. <br>
-            </br>
-            Thank You 
+            Greetings, I am currently looking for an Internship or Entry Level
+            Fullstack Web Developer role. I completed a Full Stack Web Developer
+            Bootcamp at UTSA in January 2022. You are welcome to contact me if
+            you have any further questions. <br></br>
+            Thank You
           </p>
           <div className="flex justify-center">
             <a
@@ -34,11 +34,7 @@ export default function About() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="./coding.svg"
-          />
+          <img className="object-cover object-center rounded" alt="" src="" />
         </div>
       </div>
     </section>
