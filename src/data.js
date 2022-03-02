@@ -26,10 +26,9 @@ export const projects = [
   {
     title: "Todo App",
     subtitle: "React.js",
-    description:
-      "",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    description: "",
+    image: "",
+    link: "",
   },
 ];
 
@@ -52,13 +51,10 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
-  "React",
+  "React.js",
   "Next.js",
   "Node",
-  "GraphQL",
   "Material UI",
-  "Mongo DB",
-  "MySQL",
   "Git Bash",
   "Github",
   "Heroku",
