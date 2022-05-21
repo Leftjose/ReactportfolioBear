@@ -54,7 +54,7 @@ export const skills = [
   "React.js",
   "Next.js",
   "Node",
-  "Material UI",
+  "Bootstrap",
   "Git Bash",
   "Github",
   "Heroku",
