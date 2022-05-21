@@ -58,7 +58,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE (Call/SMS)
               </h2>
-              <p className="leading-relaxed">(210) 719-1685</p>
+              <p className="leading-relaxed">(726) 582-4378 </p>
             </div>
           </div>
         </div>
