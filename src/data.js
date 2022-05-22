@@ -16,7 +16,7 @@ export const projects = [
     link: "https://fons3517.github.io/Project1-PrimeTime/",
   },
   {
-    title: "DevChat",
+    title: "Password Generator",
     subtitle: "React and Firebase",
     description:
       "This Random password generator allows the user to create a password with a variety of characters and the user will also be able to copy the password to clipboard.",
