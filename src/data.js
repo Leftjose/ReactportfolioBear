@@ -17,18 +17,19 @@ export const projects = [
   },
   {
     title: "Password Generator",
-    subtitle: "React and Firebase",
+    subtitle: "",
     description:
       "This Random password generator allows the user to create a password with a variety of characters and the user will also be able to copy the password to clipboard.",
     image: "./passwordgen.png",
     link: "https://leftjose.github.io/passwordGenerator02-25/",
   },
   {
-    title: "Todo App",
-    subtitle: "React.js",
-    description: "",
-    image: "",
-    link: "",
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "This 404 page is responsive with a floating ghost svg image. This is a tutorial from youtube with my own changes.",
+    image: "404Error.png",
+    link: "https://leftjose.github.io/404Responsive/",
   },
 ];
 
