@@ -37,7 +37,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt=""
-            src="./london.svg"
+            src="./fcf7fd0c619bb87706533079240915f3.gif"
           />
         </div>
       </div>
