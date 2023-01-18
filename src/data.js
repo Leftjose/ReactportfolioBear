@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "Space EMS",
-    subtitle: "Web Game (signup/login)",
+    title: "Parece Que Va Llover",
+    subtitle: "Weather App",
     description:
-      "Create a login and login to play the Space EMS game. This aplication was created with a team of develpoers from my Bootcamp.",
-    image: "./spaceEMS.png",
-    link: "https://space-ems.herokuapp.com/",
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./pareceQuePIC.png",
+    link: "https://github.com/Leftjose/bug-free-octo-fiesta",
   },
   {
     title: "PrimeTime",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "Password Generator",
-    subtitle: "",
+    subtitle: "Password App",
     description:
       "This Random password generator allows the user to create a password with a variety of characters and the user will also be able to copy the password to clipboard.",
     image: "./passwordgen.png",
